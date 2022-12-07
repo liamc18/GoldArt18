@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GoldArt18
 - 👀 I’m interested in all things technology
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me liamdc2013@gmail.com
 
